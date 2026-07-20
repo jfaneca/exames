@@ -152,7 +152,7 @@ def main():
             skipped_count += 1
             continue
 
-        recipient_email = "500sandrabergano@esgc.pt"
+        recipient_email = "XXXXX@esgc.pt"
 
         print(f"[{idx}/{len(student_folders)}] Enviando {len(pdf_files)} PDF(s) para {student_name} ({recipient_email})...")
         
